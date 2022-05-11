@@ -4,7 +4,7 @@ This repository will store all the related projects
 
 ## Subjects
 - [x] Day 01 - Working with Variables in Pythons to Manage Data
-- [ ] Day 02 - Understanding Data Types and How to Manipulate String
+- [x] Day 02 - Understanding Data Types and How to Manipulate String
 - [ ] Day 03 - Control Flow and Logical Operators
 - [ ] Day 04 - Randomisation and Pythons Lists
 - [ ] Day 05 - Python Loops
