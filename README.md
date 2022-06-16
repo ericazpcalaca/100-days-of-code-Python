@@ -8,8 +8,8 @@ This repository will store all the related projects
 - [x] Day 03 - Control Flow and Logical Operators
 - [x] Day 04 - Randomisation and Pythons Lists
 - [x] Day 05 - Python Loops
-- [ ] Day 06 - Python Functions & Karel
-- [ ] Day 07 - Hangman
+- [ ] ~~Day 06 - Python Functions & Karel~~ (does not have any file to put on GitHub)
+- [x] Day 07 - Hangman
 - [ ] Day 08 - Function Parameters & Caesar Cipher
 - [ ] Day 09 - Dictionaries, Nesting and the Secret Auction
 - [ ] Day 10 - Funcitons with Outputs
